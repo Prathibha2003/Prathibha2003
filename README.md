@@ -1,22 +1,15 @@
 <h1 align="center">Hi 👋, I'm Prathibha A E</h1>
-<h3 align="center">Full Stack Developer | Java | JavaScript | React</h3>
-
-<p align="center">
-  <a href="https://github.com/Prathibha2003/Prathibha-A-E/raw/main/Prathibha_A_E_Full_Stack_Developer_Resume_.pdf">
-    <img src="https://img.shields.io/badge/⬇️ Download_Resume-8A2BE2?style=for-the-badge&logo=readme&logoColor=white" />
-  </a>
-</p>
+<h3 align="center">Full Stack Developer | Java | Python | React</h3>
 
 ---
 
 ### 🌟 About Me
-- 🎓 BE in Computer Science & Engineering (VTU), CGPA: *7.94*
+- 🎓 BE in Computer Science & Engineering (VTU)*
 - 💻 Full Stack Development Trainee at *KodNest, Bengaluru*
-- 🧠 Skilled in *Java, MySQL, JavaScript, React, Django, Flask*
-- 🚀 Love building full-stack apps & solving real world problems
-- 📚 Learning: *Spring Boot, *Python, *Django, *Flask, **DSA*
-- 💼 Open for: Full-time roles, internships & freelance  
-- 🔗 Portfolio Website: coming soon
+- 🧠 Skilled in *Java, MySQL, JavaScript, React
+- 🚀 Passionate about full-stack development & problem solving  
+- 📚 Currently learning: Python, Django, Flask*, *Spring Boot, **Advanced React, **DSA*
+- 💼 Open to: Full-time roles, internships & freelance opportunities  
 
 ---
 
@@ -41,16 +34,17 @@
 ## 🚀 Featured Projects
 
 ### 🔹 *Smart Waste Management System*
-IoT-based smart waste segregation — KSCST sponsored project.
+IoT-based automated waste segregation using Arduino, C++, sensors & app.  
+⭐ Sponsored by KSCST (48th SPP)
 
 ### 🔹 *Face Recognition Attendance System*
-Python + OpenCV + Flask attendance automation.
+Python + OpenCV + Flask to automate attendance & prevent proxy.
 
 ### 🔹 *Courier Management System*
-Real-time parcel tracking using Django + MySQL + Google Maps API.
+Real-time parcel tracking using Django, MySQL & Google Maps API.
 
 ### 🔹 *Rail Wheel Factory Internship*
-Built .NET APIs, Python data pipelines & microservices (25% faster DB access).
+Developed .NET MVC APIs, Python pipelines & microservices using Dapper ORM.
 
 ---
 
@@ -63,11 +57,11 @@ Built .NET APIs, Python data pipelines & microservices (25% faster DB access).
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect with Me
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/prathibha-a-e">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:prathibhagowda840@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -77,8 +71,6 @@ Built .NET APIs, Python data pipelines & microservices (25% faster DB access).
 ---
 
 <div align="center">
-  
 ✨ Thanks for visiting my profile!  
-💙 Feel free to explore my repositories and connect!
-
+💙 Check out my repositories and feel free to connect!
 </div>
