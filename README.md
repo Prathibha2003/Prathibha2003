@@ -1,15 +1,21 @@
 <h1 align="center">Hi 👋, I'm Prathibha A E</h1>
 <h3 align="center">Full Stack Developer | Java | JavaScript | React</h3>
 
+<p align="center">
+  <a href="https://github.com/Prathibha2003/Prathibha-A-E/raw/main/Prathibha_A_E_Full_Stack_Developer_Resume_.pdf">
+    <img src="https://img.shields.io/badge/⬇️ Download_Resume-8A2BE2?style=for-the-badge&logo=readme&logoColor=white" />
+  </a>
+</p>
+
 ---
 
 ### 🌟 About Me
-- 🎓 BE in Computer Science & Engineering (VTU)*
+- 🎓 BE in Computer Science & Engineering (VTU), CGPA: *7.94*
 - 💻 Full Stack Development Trainee at *KodNest, Bengaluru*
-- 🧠 Skilled in *Java, MySQL, JavaScript React*
-- 🚀 Passionate about building full-stack applications, solving real-world problems & writing clean code
-- 📚 Currently learning: *Spring Boot, **Advanced React, **DSA*
-- 💼 Open to: Full-time roles, internships & freelance opportunities  
+- 🧠 Skilled in *Java, MySQL, JavaScript, React, Django, Flask*
+- 🚀 Love building full-stack apps & solving real world problems
+- 📚 Learning: *Spring Boot, *Python, *Django, *Flask, **DSA*
+- 💼 Open for: Full-time roles, internships & freelance  
 - 🔗 Portfolio Website: coming soon
 
 ---
@@ -27,7 +33,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode)
 
-### *Databases*
+### *Database*
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
 
 ---
@@ -35,18 +41,16 @@
 ## 🚀 Featured Projects
 
 ### 🔹 *Smart Waste Management System*
-IoT-based automated waste segregation using Arduino, C++, sensors, and mobile UI.  
-👉 Sponsored by KSCST (48th SPP)
+IoT-based smart waste segregation — KSCST sponsored project.
 
 ### 🔹 *Face Recognition Attendance System*
-Python + OpenCV + Flask app to automate attendance & prevent proxy.
+Python + OpenCV + Flask attendance automation.
 
 ### 🔹 *Courier Management System*
-Real-time parcel tracking using Django, MySQL & Google Maps API.
+Real-time parcel tracking using Django + MySQL + Google Maps API.
 
-### 🔹 *Rail Wheel Factory Internship Project*
-Developed .NET MVC APIs, Python pipelines & microservices using Dapper ORM.  
-Improved data retrieval time by *25%*.
+### 🔹 *Rail Wheel Factory Internship*
+Built .NET APIs, Python data pipelines & microservices (25% faster DB access).
 
 ---
 
@@ -75,6 +79,6 @@ Improved data retrieval time by *25%*.
 <div align="center">
   
 ✨ Thanks for visiting my profile!  
-💙 Feel free to check out my repositories and connect!
+💙 Feel free to explore my repositories and connect!
 
 </div>
