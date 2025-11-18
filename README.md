@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prathibha A E</h1>
-<h3 align="center">Full Stack Developer | Java | Python | React</h3>
+<h3 align="center">Full Stack Developer | Java | JavaScript | React</h3>
 
 ---
 
