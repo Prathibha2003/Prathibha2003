@@ -8,7 +8,7 @@
 - 💻 Full Stack Development Trainee at *KodNest, Bengaluru*
 - 🧠 Skilled in *Java, MySQL, JavaScript, React
 - 🚀 Passionate about full-stack development & problem solving  
-- 📚 Currently learning: Python, Django, Flask*, *Spring Boot, **Advanced React, **DSA*
+- 📚 Currently learning: Python, Django, Flask, Spring Boot, Advanced React, DSA
 - 💼 Open to: Full-time roles, internships & freelance opportunities  
 
 ---
