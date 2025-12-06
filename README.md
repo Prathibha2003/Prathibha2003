@@ -3,13 +3,13 @@
 
 ---
 
-### 🌟 About Me
-- 🎓 BE in Computer Science & Engineering (VTU)*
-- 💻 Full Stack Development Trainee at *KodNest, Bengaluru*
-- 🧠 Skilled in *Java, MySQL, JavaScript, React
-- 🚀 Passionate about full-stack development & problem solving  
-- 📚 Currently learning: Python, Django, Flask, Spring Boot, Advanced React, DSA
-- 💼 Open to: Full-time roles, internships & freelance opportunities  
+## 🌟 About Me
+- 🎓 BE in Computer Science & Engineering (VTU)
+- 💻 Full Stack Development Trainee at KodNest, Bengaluru
+- 🧠 Skilled in Java, MySQL, JavaScript, React
+- 🚀 Passionate about full-stack development & building real-world applications  
+- 📚 Currently learning: Spring Boot, Advanced React, and DSA
+- 💼 Open to full-time roles, internships & freelance opportunities  
 
 ---
 
@@ -23,6 +23,7 @@
 
 ### *Frameworks & Tools*
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode)
 
@@ -33,18 +34,29 @@
 
 ## 🚀 Featured Projects
 
+
+### 🔹 *TaskPanda – Task Management Web App*
+*React.js | JavaScript | CSS*  
+A simple and intuitive task manager with filtering, completion tracking, and persistent storage.  
+🔗 GitHub: https://github.com/Prathibha2003/TaskPanda
+
+---
+
 ### 🔹 *Smart Waste Management System*
-IoT-based automated waste segregation using Arduino, C++, sensors & app.  
-⭐ Sponsored by KSCST (48th SPP)
+*IoT | Arduino | Sensors | C++*  
+IoT-based automated waste segregation into metal, wet, and dry categories.  
+⭐ Sponsored by *KSCST – 48th SPP*  
+✔ Real-time monitoring using mobile app  
+✔ Published research paper  
+
+---
 
 ### 🔹 *Face Recognition Attendance System*
-Python + OpenCV + Flask to automate attendance & prevent proxy.
-
-### 🔹 *Courier Management System*
-Real-time parcel tracking using Django, MySQL & Google Maps API.
-
-### 🔹 *Rail Wheel Factory Internship*
-Developed .NET MVC APIs, Python pipelines & microservices using Dapper ORM.
+*Python | OpenCV | Flask*  
+Automated attendance system using CNN-based face recognition to prevent proxy attendance.  
+✔ Real-time detection  
+✔ Attendance auto-logging  
+✔ Reduces manual errors  
 
 ---
 
