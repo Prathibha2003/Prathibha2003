@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Prathibha A E</h1>
-<h3 align="center">Full Stack Developer | Java | Python | JavaScript | React</h3>
+
+<!-- 🎯 FEATURE 1: Animated Typing Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Java+%7C+Python+%7C+JavaScript+%7C+React;Building+Real-World+Applications+%F0%9F%92%BB;Open+to+Full-Time+%26+Internship+Roles+%F0%9F%92%BC" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/prathibha-a-e">
@@ -143,11 +147,34 @@ Automated attendance system using CNN-based face recognition to prevent proxy at
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats & Activity
+
+<!-- 🎯 FEATURE 4: Contribution Streak Counter -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Prathibha2003&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prathibha2003&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathibha2003&layout=compact&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Prathibha2003&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathibha2003&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" height="160" />
+</p>
+
+<!-- 🎯 FEATURE 3: GitHub Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Prathibha2003&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
+---
+
+<!-- 🎯 FEATURE 2: Snake eating contribution graph -->
+## 🐍 My Contributions
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prathibha2003/Prathibha2003/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prathibha2003/Prathibha2003/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/Prathibha2003/Prathibha2003/output/github-snake-dark.svg" />
+  </picture>
 </p>
 
 ---
@@ -159,8 +186,33 @@ Automated attendance system using CNN-based face recognition to prevent proxy at
 
 ---
 
-> 📌 **Resume Setup Note** *(remove this after setup)*:
-> To enable the **View** and **Download** resume buttons above:
-> 1. Go to your profile repo: `github.com/Prathibha2003/Prathibha2003`
-> 2. Upload your resume PDF and rename it to **`Prathibha_Resume.pdf`**
-> 3. Commit it to the `main` branch — the buttons will work automatically! ✅
+> ### 📌 One-Time Setup Guide *(delete this section after completing)*
+>
+> **1️⃣ Resume buttons** — Upload your PDF as `Prathibha_Resume.pdf` to the `main` branch of `Prathibha2003/Prathibha2003` repo ✅
+>
+> **2️⃣ 🐍 Snake animation** — Create this file in your profile repo: `.github/workflows/snake.yml`
+>
+> ```yaml
+> name: Generate Snake
+> on:
+>   schedule:
+>     - cron: "0 0 * * *"
+>   workflow_dispatch:
+> jobs:
+>   generate:
+>     runs-on: ubuntu-latest
+>     steps:
+>       - uses: Platane/snk/svg-only@v3
+>         with:
+>           github_user_name: Prathibha2003
+>           outputs: |
+>             dist/github-snake.svg
+>             dist/github-snake-dark.svg?palette=github-dark
+>       - uses: crazy-max/ghaction-github-pages@v3
+>         with:
+>           target_branch: output
+>           build_dir: dist
+>         env:
+>           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+> ```
+> Then go to **Actions tab → Generate Snake → Run workflow** (runs once manually, then auto-updates daily) ✅
