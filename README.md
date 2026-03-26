@@ -13,6 +13,16 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/Prathibha2003/Prathibha2003/blob/main/Prathibha_Resume.pdf">
+    <img src="https://img.shields.io/badge/👁️%20View%20Resume-4CAF50?style=for-the-badge&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Prathibha2003/Prathibha2003/raw/main/Prathibha_Resume.pdf">
+    <img src="https://img.shields.io/badge/⬇️%20Download%20Resume-2196F3?style=for-the-badge&logoColor=white" />
+  </a>
+</p>
+
 ---
 
 ## 🌟 About Me
@@ -146,3 +156,11 @@ Automated attendance system using CNN-based face recognition to prevent proxy at
 ✨ Thanks for visiting my profile!<br/>
 💙 Check out my repositories and feel free to connect!
 </div>
+
+---
+
+> 📌 **Resume Setup Note** *(remove this after setup)*:
+> To enable the **View** and **Download** resume buttons above:
+> 1. Go to your profile repo: `github.com/Prathibha2003/Prathibha2003`
+> 2. Upload your resume PDF and rename it to **`Prathibha_Resume.pdf`**
+> 3. Commit it to the `main` branch — the buttons will work automatically! ✅
