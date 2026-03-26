@@ -159,10 +159,7 @@ Automated attendance system using CNN-based face recognition to prevent proxy at
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathibha2003&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" height="160" />
 </p>
 
-<!-- 🎯 FEATURE 3: GitHub Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Prathibha2003&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=6" alt="GitHub Trophies" />
-</p>
+
 
 ---
 
@@ -174,6 +171,3 @@ Automated attendance system using CNN-based face recognition to prevent proxy at
 
 ---
 
-> ### 📌 One-Time Setup Guide *(delete this section after completing)*
->
-> **📄 Resume buttons** — Upload your PDF as `Prathibha_Resume.pdf` to the `main` branch of `Prathibha2003/Prathibha2003` repo ✅
