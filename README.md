@@ -9,7 +9,7 @@
   <a href="https://linkedin.com/in/prathibha-a-e">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:prathibhagowda840@gmail.com">
+  <a href="/cdn-cgi/l/email-protection#03737162776b6a616b62646c7467623b373343646e626a6f2d606c6e">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Prathibha2003">
@@ -166,18 +166,6 @@ Automated attendance system using CNN-based face recognition to prevent proxy at
 
 ---
 
-<!-- 🎯 FEATURE 2: Snake eating contribution graph -->
-## 🐍 My Contributions
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prathibha2003/Prathibha2003/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prathibha2003/Prathibha2003/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/Prathibha2003/Prathibha2003/output/github-snake-dark.svg" />
-  </picture>
-</p>
-
----
 
 <div align="center">
 ✨ Thanks for visiting my profile!<br/>
@@ -188,31 +176,4 @@ Automated attendance system using CNN-based face recognition to prevent proxy at
 
 > ### 📌 One-Time Setup Guide *(delete this section after completing)*
 >
-> **1️⃣ Resume buttons** — Upload your PDF as `Prathibha_Resume.pdf` to the `main` branch of `Prathibha2003/Prathibha2003` repo ✅
->
-> **2️⃣ 🐍 Snake animation** — Create this file in your profile repo: `.github/workflows/snake.yml`
->
-> ```yaml
-> name: Generate Snake
-> on:
->   schedule:
->     - cron: "0 0 * * *"
->   workflow_dispatch:
-> jobs:
->   generate:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: Platane/snk/svg-only@v3
->         with:
->           github_user_name: Prathibha2003
->           outputs: |
->             dist/github-snake.svg
->             dist/github-snake-dark.svg?palette=github-dark
->       - uses: crazy-max/ghaction-github-pages@v3
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
-> Then go to **Actions tab → Generate Snake → Run workflow** (runs once manually, then auto-updates daily) ✅
+> **📄 Resume buttons** — Upload your PDF as `Prathibha_Resume.pdf` to the `main` branch of `Prathibha2003/Prathibha2003` repo ✅
